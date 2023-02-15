@@ -11,6 +11,10 @@ bugs introduced!
 Your job is to use the test suite, error messages,
 and tools like Pry to fix the mistakes.
 
+### Reflection
+
+This program was supposed to test my skills regarding reading errors I might run into running tests, I was able to navigate the errors and even able to recognize faulty tests when faced with a few. I am really comfortable with these type of errors and able to navigate the troubleshooting associated with them.
+
 ### Setup
 
 ```
