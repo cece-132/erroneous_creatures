@@ -1,3 +1,4 @@
+require 'pry'
 class Centaur
 
   attr_reader :name, :breed
@@ -48,6 +49,7 @@ class Centaur
     else
       @sleeping = true
       @crankiness = 0
+      "YES!"
     end
   end
 

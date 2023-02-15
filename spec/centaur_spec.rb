@@ -91,7 +91,7 @@ RSpec.describe Centaur do
 
     centaur.lay_down
 
-    expect(centaur.sleep).to eq("NO!")
+    expect(centaur.sleep).to eq("YES!")
   end
 
   it "cannot shoot a bow when laying down" do
